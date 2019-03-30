@@ -1,0 +1,1 @@
+put `ConditionalBean` and `ConditionalOnMissingBean` in one `Configuration` class may not work
